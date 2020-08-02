@@ -1,0 +1,13 @@
+留言
+查询    get     /userSchema
+添加    post    /userSchema
+修改    get     /userSchema/edit
+        post    /userSchema/edit
+删除    get     /userSchema/delete
+
+文章
+查询    get     /article
+添加    post    /article
+修改    get     /article/edit
+        post    /article/edit
+删除    get     /article/delete
